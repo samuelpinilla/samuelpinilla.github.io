@@ -431,16 +431,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-paper-wavemax-radar-waveform-design-via-convex-maximization-of-frft-phase-retrieval-accepted-in-ieee-transactions-on-signal-processing",
+          title: 'Paper WaveMax: Radar Waveform Design via Convex Maximization of FrFT Phase Retrieval accepted...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-started-as-associate-editor-of-ieee-transactions-on-signal-processing",
+          title: 'Started as Associate Editor of IEEE Transactions on Signal Processing.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-accepted-tutorial-invex-optimization-for-signal-image-processing-and-machine-learning-at-the-2026-national-radio-science-meeting",
+          title: 'Accepted tutorial Invex Optimization for Signal/Image Processing and Machine Learning at the 2026...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -495,11 +493,25 @@ ninja.data = [{
           window.open("mailto:%73%70%69%6E%69%6C%6C%61@%69%65%65%65.%6F%72%67", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://github.com/samuelpinilla", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/samuel-pinilla", "_blank");
+        },
+      },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/Samuel-Pinilla/", "_blank");
         },
       },{
         id: 'social-rss',
@@ -514,13 +526,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=yGayy7sAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
