@@ -24,4 +24,4 @@ I combine backgrounds in Computer Science, Mathematics and Engineering with AI f
 
 I drive solutions at the intersection of Theoretical AI, Hands-on Coding, and Applied Machine Learning, bridging theory and real-world impact to transform advanced AI theory into systems that perform reliably and produce measurable results. I move from mathematical AI theory → building robust AI systems → delivering results in production.
 
-As a researcher, I have expertise in advanced optimisation, invexity, signal processing, optics, and explainable deep learning, with publications in NeurIPS, ICLR, Science Advances, Optica, ICASSP, and Nature Machine Intelligence. 
+As a researcher, I have expertise in advanced optimisation, invexity, signal processing, optics, and explainable deep learning, with publications in **NeurIPS, ICLR, Science Advances, Optica, ICASSP, and Nature Machine Intelligence**. 
